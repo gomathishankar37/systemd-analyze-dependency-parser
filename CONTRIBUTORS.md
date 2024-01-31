@@ -6,6 +6,7 @@ A big thank you to all the wonderful people who have contributed to this project
 
 * [Padala Hanuk Kumar](https://github.com/h1712)
 * [Gomathi Shankar](https://github.com/gomathishankar37)
+* [Deva Thiyagarajan](https://github.com/tdeva14)
 
 ## How to Contribute
 
